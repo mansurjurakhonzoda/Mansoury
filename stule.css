@@ -240,3 +240,22 @@ del {
 .four {
   background-image: url("./images/fridje.png");
 }
+.images {
+  width: 1092px;
+  height: 710px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+}
+.frame {
+  width: 351px;
+  height: 345px;
+  border-radius: 8px;
+}
+.long {
+  width: 535px;
+  height: 345px;
+  border-radius: 8px;
+}
