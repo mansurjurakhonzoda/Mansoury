@@ -62,3 +62,63 @@
   align-items: center;
   justify-content: space-between;
 }
+.mansoury {
+  width: 1091px;
+  height: 38px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.name {
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 2%;
+  line-height: 28px;
+  color: #438db8;
+}
+.sslki {
+  width: 458px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a {
+  font-size: 18px;
+  font-weight: 600;
+  color: #666666;
+  line-height: 24px;
+  text-decoration: none;
+}
+.login {
+  width: 223px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.regist {
+  width: 138px;
+  height: 28px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.size-5 {
+  width: 13px;
+  height: 13px;
+}
+.log {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #666666;
+}
+.knopka {
+  width: 29px;
+  height: 28px;
+}
