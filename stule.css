@@ -136,3 +136,107 @@ h1 {
   text-align: center;
   color: #ffffff;
 }
+.discover {
+  width: 1097px;
+  height: 225px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hot {
+  width: 173px;
+  height: 221px;
+}
+.details {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  color: #666666;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 4px solid #438db8;
+  border-radius: 8px;
+}
+.in {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  color: #5f5f5f;
+  text-align: justify;
+}
+.size-3 {
+  width: 35px;
+  height: 35px;
+  color: #737373;
+}
+.karta {
+  width: 177px;
+  height: 221px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  background-color: #e9e7e7;
+}
+.tech {
+  width: 175px;
+  height: 175px;
+  background-image: url("./images/микроволновка.png");
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+}
+.znak {
+  width: 26px;
+  height: 26px;
+  margin-left: 10px;
+}
+.znak2 {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  padding: 5px;
+}
+.brend {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  color: #3e3e3e;
+  margin-top: 5px;
+}
+.buy {
+  width: 175px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cena {
+  font-weight: 500;
+  font-size: 13px;
+  color: #3e3e3e;
+}
+del {
+  font-size: 11px;
+  color: #bebcbd;
+  margin-left: 10px;
+}
+.size-2 {
+  width: 21px;
+  height: 21px;
+  color: #ffffff;
+  border-radius: 4px;
+  background-color: #438db8;
+}
+.dwa {
+  background-image: url("./images/washing mashine.png");
+}
+.three {
+  background-image: url("./images/castrul.png");
+}
+.four {
+  background-image: url("./images/fridje.png");
+}
