@@ -259,3 +259,21 @@ del {
   height: 345px;
   border-radius: 8px;
 }
+.products {
+  width: 1092px;
+  height: 710px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  justify-content: center;
+}
+.product {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+  color: #666666;
+}
